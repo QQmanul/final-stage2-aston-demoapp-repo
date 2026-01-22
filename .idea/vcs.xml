@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/aston-homework-stage2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/aston-stg2-api-gateway" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/aston-stg2-config-repo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/aston-stg2-config-server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/aston-stg2-discovery-server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/aston-stg2-notification-service" vcs="Git" />
+  </component>
+</project>
