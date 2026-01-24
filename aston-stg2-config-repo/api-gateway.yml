@@ -28,5 +28,5 @@ resilience4j.circuitbreaker:
 eureka:
   client:
     service-url:
-      defaultZone: http://discovery-service:8761/eureka
+      defaultZone: http://discovery-server:8761/eureka
 
